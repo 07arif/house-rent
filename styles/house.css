@@ -1,0 +1,27 @@
+.abou-section-content {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.house-items {
+    display: flex;
+    width: 80%;
+    justify-content: center;
+    margin: 0 auto;
+    padding-top: 30px;
+    gap: 30px;
+}
+
+.house1 {
+    width: 50%;
+    padding: 20px;
+    box-shadow: 10px 10px 60px gray;
+    border-radius: 20px;
+
+}
+
+.house1 img {
+    width: 100%;
+    border-radius: 5px;
+}
