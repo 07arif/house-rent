@@ -61,7 +61,7 @@ nav ul li a:hover {
 /* navigation end  */
 
 .top-banner {
-    background-image: url(images/apartment/appartment.png);
+    background-image: url(../images/apartment/appartment.png);
     background-size: cover;
     height: 90vh;
 }
